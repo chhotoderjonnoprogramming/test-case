@@ -2,6 +2,7 @@ body {
     background-color: lightgreen;
     margin: 50px;
     padding: 50px;
+    border: 1px gold solid;
 }
 
 h1 {
